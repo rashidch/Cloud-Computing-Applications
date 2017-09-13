@@ -9,3 +9,4 @@
 7. Cloud computing technologies: NoSQL, MapReduce
 8. Migration from Standard Environment to Cloud Computing 
 9. Practical work is completed using Microsoft Azure and AWS cloud services 
+# To view online, go this link https://drive.google.com/open?id=0B9kht6ygR4pOb3Nzd0NTbTI3VGc
